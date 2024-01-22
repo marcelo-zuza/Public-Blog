@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "date": "2022-02-02",
+            "title": "Post 1",
+            "author": "Bira da Construção",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, repellat. Possimus esse tenetur distinctio necessitatibus eligendi harum ullam, asperiores nam magnam dolore quas, praesentium doloremque, corporis adipisci qui neque maiores. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi quo aut voluptatem esse expedita ex quam sint atque. Nam aspernatur perspiciatis et ullam illo soluta iure, qui nemo ratione omnis."
+        },
+        {
+            "id": 2,
+            "date": "2022-02-02",
+            "title": "Post 2",
+            "author": "Bira da Construção",
+
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, repellat. Possimus esse tenetur distinctio necessitatibus eligendi harum ullam, asperiores nam magnam dolore quas, praesentium doloremque, corporis adipisci qui neque maiores. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi quo aut voluptatem esse expedita ex quam sint atque. Nam aspernatur perspiciatis et ullam illo soluta iure, qui nemo ratione omnis."
+        }
+    ]
+}
